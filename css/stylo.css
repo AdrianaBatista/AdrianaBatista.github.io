@@ -1,0 +1,95 @@
+
+*{
+    margin: o;
+    padding: 0;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    color: #333333; 
+}
+.cabecalho{
+    padding: 30px;
+}
+ul{
+    list-style: none;
+}
+
+.info{
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+.conteudo{
+    width: 80%;
+    margin: 0 auto;
+}
+.cabecalho{
+    padding: 30px  0px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+.redes-sociais{
+    width: 200px;
+    display: flex;
+    justify-content:space-between;
+    padding-right: 10px;
+}
+.perfil{
+    right: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 10px;
+
+}
+.informacao{
+    display: flex;
+    align-items: center;
+}
+.experiencia{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+.esquerda{
+    width: 20%;
+    text-align: right;
+    
+
+}
+.direita{
+    width: 78%;
+}
+.titulo-sessao{
+    text-transform: uppercase;
+}
+.minha-foto{
+    height: 200px;
+    width: 200px;
+}
+.experiencias{
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
