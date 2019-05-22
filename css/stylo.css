@@ -70,7 +70,10 @@ ul{
     width: 200px;
 }
 .experiencias{
-    background-color: yellow;
+
+}
+.alinha-topo{
+    align-items: flex-start;
 }
 
 
