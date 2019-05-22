@@ -1,6 +1,6 @@
 
 *{
-    margin: o;
+    margin: 0;
     padding: 0;
 }
 body{
@@ -74,6 +74,13 @@ ul{
 }
 .alinha-topo{
     align-items: flex-start;
+}
+.rodape{
+    background: #333333;
+    color:#f1f1f1;
+     text-align: center;
+     padding: 20px;
+     margin-top: 30px;
 }
 
 
