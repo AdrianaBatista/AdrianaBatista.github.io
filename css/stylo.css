@@ -87,7 +87,26 @@ ul{
 header{
     background-color: #C0FFB6;
 }
+.skill{
+    display: flex;
+    justify-content: space-between;
+}
+.barra{
+    height: 10px;
+    background: #000;
+}
+.habilidades{
+    width: 48%;
+}
 
+.habilidades span{
+   display: flex;
+   align-items: center;
+   margin-bottom: 10px;
+}
+.percentual-100{width: 100%;}
+.percentual-90{width: 90%;}
+.percentual-80{width: 80%;}
 
 
 
